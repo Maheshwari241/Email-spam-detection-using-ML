@@ -6,4 +6,4 @@ Keywords: Machine learning techniques, Model Deployment, Web Application, Real t
 
 
 
-if you need project MAil me : maheshwari.murugavel24@gmail.com
+if you need project Mail me : maheshwari.murugavel24@gmail.com
